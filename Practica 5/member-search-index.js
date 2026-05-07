@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"ejemplo","c":"Rectangle","l":"perimeter()"},{"p":"ejemplo","c":"Rectangle","l":"Rectangle(int, int)","u":"%3Cinit%3E(int,int)","k":"3"},{"p":"ejemplo","c":"Rectangle","l":"surface()"}];updateSearchResults();
